@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Enchanté!");
         System.out.println("J'adore le cours!");
         System.out.println("J'adore rien");
+        System.out.println("J'adore!");
     }
 }
